@@ -1,0 +1,61 @@
+{
+  "carros": [
+    {
+      "id": "0",
+      "montadora": "Chevrolet",
+      "nomeCarro": [
+        "Onix"
+      ],
+      "cores": [
+        "Branco Summit",
+        "Vermelho Carmin"
+      ]
+    },
+    {
+      "id": "1",
+      "montadora": "Chevrolet",
+      "nomeCarro": "Tracker",
+      "cores": [
+        "Preto Ouro Negro",
+        "Branco Summit",
+        "Vermelho Carmin",
+        "Cinza Satin Steel"
+      ]
+    },
+    {
+      "id": "2",
+      "montadora": "Chevrolet",
+      "nomeCarro": "Spin",
+      "cores": [
+        "Vermelho Carmin"
+      ]
+    },
+    {
+      "id": "3",
+      "montadora": "Chevrolet",
+      "nomeCarro": "Cruze",
+      "cores": [
+        "Vermelho Carmin",
+        "Azul Eclipse",
+        "Branco Abalone"
+      ]
+    },
+    {
+      "montadora": "wolksvagen",
+      "nomeCarro": "Gol",
+      "cores": [
+        "Prata Sirius "
+      ],
+      "id": "d6SNo0u"
+    },
+    {
+      "id": "4",
+      "montadora": "Chevrolet",
+      "nomeCarro": "Camaro",
+      "cores": [
+        "amarelo"
+      ]
+    }
+
+  ]
+}
